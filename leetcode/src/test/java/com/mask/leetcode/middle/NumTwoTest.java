@@ -30,7 +30,6 @@ public class NumTwoTest {
         // listNode2.next.next.next = numTwo.new ListNode(3);
 
         ListNode result = numTwo.addTwoNumbers(listNode1, listNode2);
-
         ListNode standard = numTwo.standard(listNode1, listNode2);
 
         numTwo.printListNode(result);
