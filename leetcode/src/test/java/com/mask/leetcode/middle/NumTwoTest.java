@@ -23,7 +23,6 @@ public class NumTwoTest {
         // listNode1.next = numTwo.new ListNode(8);
         // listNode1.next.next = numTwo.new ListNode(3);
         // listNode1.next.next.next = numTwo.new ListNode(3);
-
         ListNode listNode2 = new ListNode(5);
         // listNode2.next = numTwo.new ListNode(6);
         // listNode2.next.next = numTwo.new ListNode(4);
